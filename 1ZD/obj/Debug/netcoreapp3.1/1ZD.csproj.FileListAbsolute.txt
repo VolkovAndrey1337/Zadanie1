@@ -1,0 +1,13 @@
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\bin\Debug\netcoreapp3.1\1ZD.exe
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\bin\Debug\netcoreapp3.1\1ZD.deps.json
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\bin\Debug\netcoreapp3.1\1ZD.runtimeconfig.json
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\bin\Debug\netcoreapp3.1\1ZD.runtimeconfig.dev.json
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\bin\Debug\netcoreapp3.1\1ZD.dll
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\bin\Debug\netcoreapp3.1\1ZD.pdb
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\obj\Debug\netcoreapp3.1\1ZD.csprojAssemblyReference.cache
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\obj\Debug\netcoreapp3.1\1ZD.csproj.CoreCompileInputs.cache
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\obj\Debug\netcoreapp3.1\1ZD.AssemblyInfoInputs.cache
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\obj\Debug\netcoreapp3.1\1ZD.AssemblyInfo.cs
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\obj\Debug\netcoreapp3.1\1ZD.dll
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\obj\Debug\netcoreapp3.1\1ZD.pdb
+C:\Users\Fallout_Boyzzz\source\repos\1ZD\1ZD\obj\Debug\netcoreapp3.1\1ZD.genruntimeconfig.cache
